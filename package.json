@@ -1,0 +1,26 @@
+{
+"name": "feature-highlightsxianzaibuxlou01",
+"version": "1.0.0",
+"description": "The project offers a variety of features including, but not limited to, data analysis, graphical visualization, and user interaction.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/milbradtkather/Feature-Highlights.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "milbradtkather",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
